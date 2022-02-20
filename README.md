@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @avinashji1302
 - 👀 I’m interested in Open source project
 - 🌱 I’m currently learning Data Structure And Algorithem
-- 💞️ I’m looking to contribute in some project 
+- 💞️ I’m looking forward to contribute in some project 
 - 📫 How to reach me @avi_gupta1302 tweeter account
 
 <!---
